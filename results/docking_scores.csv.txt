@@ -1,0 +1,4 @@
+ligand,haddock_score,cluster_size,buried_surface_area,rmsd
+ARS-853,-43.8,163,816.6,0.8
+JDQ443,-41.7,167,810.1,0.0
+ARS-1620,-40.9,165,802.7,0.7
